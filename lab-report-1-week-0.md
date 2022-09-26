@@ -1,0 +1,1 @@
+![Lab Report 1](https://user-images.githubusercontent.com/106074396/192173626-9c6bb476-af31-4cdb-b092-f674d7b3f9e5.jpg)
