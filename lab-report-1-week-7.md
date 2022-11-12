@@ -42,9 +42,10 @@ The command ":wq" means we first save and then quit the vim, which makes us to s
 
 This is the whole step of the completing this task.
 
- /start<Enter>ce"base"<Esc><Shift;>wq<Enter>
+/start<Enter>ce"base"<Esc><Shift;>wq<Enter>
 
- ## Part2
+
+## Part2
 
 For me, the task is here is shown above, changing the all "start" into "base".
 
