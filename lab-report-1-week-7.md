@@ -44,7 +44,6 @@ This is the whole step of the completing this task.
 
 /start<Enter>ce"base"<Esc><Shift;>wq<Enter>
 
-
 ## Part2
 
 For me, the task is here is shown above, changing the all "start" into "base".
