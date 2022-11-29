@@ -9,6 +9,7 @@ Task: Changing the name of the start parameter and its uses to base
 - /start<Enter>   
 
 We first serach where "start" is. Then, press <Enter> moving our cursor to the fisrt time of the place where "start" appears. 
+
 ![image](https://user-images.githubusercontent.com/106074396/201453270-33e69dce-049a-4268-be2a-cc2180951fc1.png)
 - ce
 
@@ -44,7 +45,7 @@ This is the whole step of the completing this task.
 
 /start<Enter>ce"base"<Esc><Shift;>wq<Enter>
 
-## Part2
+## Part2 
 
 For me, the task is here is shown above, changing the all "start" into "base".
 
